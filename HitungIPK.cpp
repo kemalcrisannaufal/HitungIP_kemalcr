@@ -83,30 +83,3 @@ int main() {
 
 }
 
-/**
- 8
-KWU
-2
-AB
-MATVEK
-3
-A
-TEPEL
-3
-A
-WGTIK
-2
-A
-STRUKTURDATA
-4
-A
-AKA
-2
-A
-OAP
-3
-A
-SBD
-3
-A
-*/
